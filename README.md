@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DecafinDev
-- 👀 I’m interested in game development and software development
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on many different projects
-- 📫 How to reach me @DecafinGames on twitter would be the best spot
+// Game Developer // Software Developer // Pixel Artist // Animator //
+// JavaScript // Lua // Python // C# //
+
+https://linktr.ee/decafin
